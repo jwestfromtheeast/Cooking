@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a7b9fecc208b3a37",
+        "id": "c818a30935a17041",
         "type": "tabs",
         "children": [
           {
-            "id": "298488039c4ddea4",
+            "id": "5cca62aed3641d8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -54,10 +58,10 @@
             }
           },
           {
-            "id": "8446b392bfad7b50",
+            "id": "dbc36dc81fd5ba66",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Recipes/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Recipes/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,16 +124,31 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Recipes/Test.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "298488039c4ddea4",
-  "lastOpenFiles": []
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "29403c5a49a9103e",
+  "lastOpenFiles": [
+    "Recipes/Test.md"
+  ]
 }
