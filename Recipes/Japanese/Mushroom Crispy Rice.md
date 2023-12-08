@@ -1,11 +1,11 @@
 ---
-alias: 
-source: 
-tags: recipe 
+alias: Mushroom Crispy Rice
+source: Momofuku
+tags: recipe,japanese,vegetarian
 ---
 ### Recipe Name 
->Notes: 
 
+>Notes: 
 ---
 ### Ingredients 
 #ingredients 

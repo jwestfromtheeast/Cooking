@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Japanese/Mushroom Crispy Rice.md",
+                "file": "Templates/Recipe Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Japanese/Mushroom Crispy Rice.md",
+                "file": "Templates/Recipe Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Japanese/Mushroom Crispy Rice.md",
+                "file": "Templates/Recipe Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Japanese/Mushroom Crispy Rice.md"
+                "file": "Templates/Recipe Template.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "e36c44d3942264a2",
   "lastOpenFiles": [
+    "Recipes/Japanese/Mushroom Crispy Rice.md",
     "Templates/Recipe Template.md",
     "Templates",
-    "Recipes/Japanese/Mushroom Crispy Rice.md",
     "Untitled.canvas",
     "Recipes/Japanese",
     "Recipes/Test.md"
