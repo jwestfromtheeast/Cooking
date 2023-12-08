@@ -11,12 +11,8 @@
             "id": "5cca62aed3641d8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Recipes/Test.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29403c5a49a9103e",
+  "active": "5cca62aed3641d8d",
   "lastOpenFiles": [
     "Recipes/Test.md"
   ]
