@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c818a30935a17041",
+        "id": "b239114adf2f96bc",
         "type": "tabs",
         "children": [
           {
-            "id": "5cca62aed3641d8d",
+            "id": "e36c44d3942264a2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,8 +139,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cca62aed3641d8d",
+  "active": "e36c44d3942264a2",
   "lastOpenFiles": [
+    "Recipes/Japanese/Mushroom Crispy Rice.md",
+    "Untitled.canvas",
+    "Recipes/Japanese",
     "Recipes/Test.md"
   ]
 }
