@@ -13,7 +13,7 @@ link: https://cooking.nytimes.com/recipes/1020631-thai-inspired-chicken-meatball
 ### Thai-Inspired Chicken Meatball Soup
 
 #### Time: 30-60 min
-
+#### Yield: 4-6 people
 
 >Notes:
 >Can bake in 425 F oven instead of pan-fry the meatballs for speed
@@ -51,6 +51,9 @@ This stellar soup is reviving and cozy, made in one pot, and ready in 30 minutes
 3. Once all the meatballs are browned and out of the pot, if the oil is burned, wipe it out and add a bit more to the pot. Reduce the heat to medium, add the reserved ginger mixture and sauté until fragrant, about 1 minute. Add the chicken broth, coconut milk, sugar and the remaining 1 tablespoon fish sauce, and bring to a simmer. Add the meatballs and any juices from the plate, and simmer until the flavors come together and the meatballs are cooked through, 5 to 8 minutes.
 4. Remove from heat, and stir in the spinach and lime juice. Divide rice among bowls, then top with meatballs, broth and cilantro. Serve with lime wedges.
 ---
-#### FINISH:
+#### Finish
+
+- Top with additional lime juice and cilantro for garnish
+- Serve with lime wedges
 
 ---

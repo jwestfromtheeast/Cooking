@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Thai/Thai-Inspired Chicken Meatball Soup.md",
+                "file": "Recipes/Japanese/Mushroom Crispy Rice.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Thai/Thai-Inspired Chicken Meatball Soup.md",
+                "file": "Recipes/Japanese/Mushroom Crispy Rice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Thai/Thai-Inspired Chicken Meatball Soup.md",
+                "file": "Recipes/Japanese/Mushroom Crispy Rice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Thai/Thai-Inspired Chicken Meatball Soup.md"
+                "file": "Recipes/Japanese/Mushroom Crispy Rice.md"
               }
             }
           },
@@ -170,9 +170,9 @@
   },
   "active": "e36c44d3942264a2",
   "lastOpenFiles": [
-    "Templates/Recipe Template.md",
     "Recipes/Thai/Thai-Inspired Chicken Meatball Soup.md",
     "Recipes/Japanese/Mushroom Crispy Rice.md",
+    "Templates/Recipe Template.md",
     "Recipes/Thai",
     "Templates",
     "Untitled.canvas",

@@ -8,14 +8,15 @@ link:
 ### Recipe Name 
 
 #### Time:
+#### Yield:
 
 >Notes: 
 
 ---
 ### Ingredients 
 #ingredients 
-- []
-- [x]
+- [ ] a
+- [x] b
 --- 
 #### Intro: 
 
@@ -23,9 +24,9 @@ link:
 --- 
 #### Directions 
 
-
+1. 
 ---
 #### Finish
 
-
+- 
 ---
