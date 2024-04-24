@@ -1,7 +1,9 @@
 ---
-alias: 
+aliases: 
 source: 
-tags: recipe 
+tags:
+  - recipe
+link:
 ---
 ### Recipe Name 
 
@@ -12,6 +14,7 @@ tags: recipe
 ---
 ### Ingredients 
 #ingredients 
+- []
 - [x]
 --- 
 #### Intro: 
