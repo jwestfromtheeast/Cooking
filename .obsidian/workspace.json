@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d5d0754781a13fb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e36c44d3942264a2",
+  "active": "3d5d0754781a13fb",
   "lastOpenFiles": [
     "Recipes/Japanese/Mushroom Crispy Rice.md",
     "Templates/Recipe Template.md",
