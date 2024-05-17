@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "7ed40136aa805613",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "3d5d0754781a13fb",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e36c44d3942264a2",
+  "active": "7ed40136aa805613",
   "lastOpenFiles": [
     "Recipes/Japanese/Mushroom Crispy Rice.md",
     "Recipes/Thai/Thai-Inspired Chicken Meatball Soup.md",
