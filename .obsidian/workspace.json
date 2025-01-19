@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b239114adf2f96bc",
+        "id": "c2fd16534a730261",
         "type": "tabs",
         "children": [
           {
-            "id": "e36c44d3942264a2",
+            "id": "cd4a2a507f2c2c7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,13 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e36c44d3942264a2",
+  "active": "cd4a2a507f2c2c7a",
   "lastOpenFiles": [
-    "Recipes/Italian/Pasta With Spicy Sausage, Broccoli Rabe and Chickpeas.md",
-    "Recipes/Japanese/Mushroom Crispy Rice.md",
-    "Recipes/Japanese/Miso Marinated Black Cod.md",
-    "Recipes/Thai/Thai-Inspired Chicken Meatball Soup.md",
     "Templates/Recipe Template.md",
+    "Recipes/Thai/Thai-Inspired Chicken Meatball Soup.md",
+    "Recipes/Italian/Pasta With Spicy Sausage, Broccoli Rabe and Chickpeas.md",
+    "Recipes/Japanese/Miso Marinated Black Cod.md",
+    "Recipes/Japanese/Mushroom Crispy Rice.md",
     "Recipes/Mexican",
     "Recipes/Untitled.md",
     "Recipes/Mediterranean",

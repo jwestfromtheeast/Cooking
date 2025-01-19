@@ -18,8 +18,9 @@ link:
 - [ ] a
 - [x] b
 --- 
-#### Intro: 
+#### Intro
 
+A
 
 --- 
 #### Directions 
