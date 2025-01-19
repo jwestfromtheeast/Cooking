@@ -8,6 +8,7 @@ tags:
   - vegetarian
   - mushroom
   - rice
+  - medium
 link: https://shop.momofuku.com/blogs/recipes/miso-mushroom-crispy-rice
 ---
 ### Mushroom Crispy Rice
