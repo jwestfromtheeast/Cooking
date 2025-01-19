@@ -12,6 +12,8 @@ link: https://cooking.nytimes.com/recipes/1020968-pasta-with-spicy-sausage-brocc
 #### Yield:
 
 >Notes: 
+>Can substitute any sturdy green in place of broccoli rabe
+>Can add additional red pepper flakes (~1/2 tsp) to give a kick
 
 ---
 ### Ingredients 
@@ -28,8 +30,9 @@ link: https://cooking.nytimes.com/recipes/1020968-pasta-with-spicy-sausage-brocc
 - [ ] 1/2 cup grated Parmesan or pecorino, plus more for serving
 - [ ] 1 lemon, zested and juiced
 --- 
-#### Intro: 
+#### Intro
 
+In this hearty weeknight pasta recipe, chickpeas contribute an earthy, nutty flavor to the classic combination of sausage and broccoli rabe. The addition of Parmesan, butter, and lemon juice just before serving balances the heat from the sausage with a bit of richness, creating a bright and flavorful sauce in the process.
 
 --- 
 #### Directions 
@@ -40,7 +43,7 @@ link: https://cooking.nytimes.com/recipes/1020968-pasta-with-spicy-sausage-brocc
 4. Add the wine and cook, scraping any bits from the bottom of the pan, until the wine is reduced by half, about 1 minute.
 5. Add the broccoli rabe, chickpeas, 1 teaspoon salt and ½ teaspoon pepper to the skillet and cook over medium heat, stirring often, until the sausage is cooked through and the broccoli rabe is very tender, about 3 minutes.
 6. Add the pasta and ½ cup of the reserved pasta water, toss well, and cook over low heat until the sauce comes together, about 1 to 2 minutes. Add additional pasta water, a few tablespoons at a time, if needed for moisture.
-7. 
+7. Remove the pan from the heat, add the butter, Parmesan, lemon zest and lemon juice, and toss until the butter is melted. Divide pasta among shallow bowls and top with additional cheese sprinkled on top.
 ---
 #### Finish
 
