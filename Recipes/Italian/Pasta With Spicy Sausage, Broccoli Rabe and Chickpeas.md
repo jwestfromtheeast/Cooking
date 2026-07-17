@@ -1,23 +1,44 @@
 ---
 aliases:
-  - Pasta With Spicy Sausage, Broccoli Rabe and Chickpeas, Sausage and Broccoli Rabe, Pasta with Sausage and Broccoli Rabe
+  - Sausage and Broccoli Rabe Pasta
+  - Pasta with Sausage and Broccoli Rabe
 source: NYT Cooking
+url: https://cooking.nytimes.com/recipes/1020968-pasta-with-spicy-sausage-broccoli-rabe-and-chickpeas
+cuisine: italian
+course: main
+difficulty: easy
+prep_time: 10
+cook_time: 20
+total_time: 30
+servings: 4
+rating: 
+tried: false
+favorite: false
+date_added: 2026-07-16
+last_made: 
 tags:
   - recipe
-link: https://cooking.nytimes.com/recipes/1020968-pasta-with-spicy-sausage-broccoli-rabe-and-chickpeas
+  - cuisine/italian
+  - type/pasta
+  - difficulty/easy
+  - ingredient/sausage
+  - ingredient/broccoli-rabe
+  - ingredient/chickpeas
 ---
-### Pasta With Spicy Sausage, Broccoli Rabe and Chickpeas
 
-#### Time: 30 min
-#### Yield:
+# Pasta With Spicy Sausage, Broccoli Rabe and Chickpeas
 
->Notes: 
->Can substitute any sturdy green in place of broccoli rabe
->Can add additional red pepper flakes (~1/2 tsp) to give a kick
+> [!info]+ At a Glance
+> **Prep:** 10 min · **Cook:** 20 min · **Total:** 30 min
+> **Serves:** 4 · **Difficulty:** easy · **Source:** [NYT Cooking](https://cooking.nytimes.com/recipes/1020968-pasta-with-spicy-sausage-broccoli-rabe-and-chickpeas)
 
----
-### Ingredients 
-#ingredients 
+> [!note]- Notes
+> - Can substitute any sturdy green in place of broccoli rabe.
+> - Can add additional red pepper flakes (~1/2 tsp) to give a kick.
+
+## Ingredients
+
+#ingredients
 - [ ] Kosher salt and black pepper
 - [ ] 1 1/2 pounds broccoli rabe or broccoli, chopped, tough stems discarded, or hearty greens like kale or escarole
 - [ ] 1 pound shaped pasta, such as campanelle or orecchiette
@@ -29,23 +50,13 @@ link: https://cooking.nytimes.com/recipes/1020968-pasta-with-spicy-sausage-brocc
 - [ ] 2 tablespoons unsalted butter
 - [ ] 1/2 cup grated Parmesan or pecorino, plus more for serving
 - [ ] 1 lemon, zested and juiced
---- 
-#### Intro
 
-In this hearty weeknight pasta recipe, chickpeas contribute an earthy, nutty flavor to the classic combination of sausage and broccoli rabe. The addition of Parmesan, butter, and lemon juice just before serving balances the heat from the sausage with a bit of richness, creating a bright and flavorful sauce in the process.
-
---- 
-#### Directions 
+## Directions
 
 1. Bring a large pot of salted water to a boil. Roughly chop the broccoli rabe, add it to the pot, and cook for 3 minutes. Use a sieve or slotted spoon to lift the broccoli rabe from the water and place it in a colander to drain.
 2. Bring the water back to a boil. Cook the pasta according to package instructions until al dente, reserve 1 cup pasta water, then drain pasta.
-3. Meanwhile, in a large Dutch oven or deep, 12-inch skillet, heat the olive oil over medium-high. Add the sausage and cook, breaking it up with a wooden spoon, until browned, 3 to 5 minutes. (Don’t worry if the sausage is not completely cooked through.) Add the garlic and cook for 30 seconds.
+3. Meanwhile, in a large Dutch oven or deep, 12-inch skillet, heat the olive oil over medium-high. Add the sausage and cook, breaking it up with a wooden spoon, until browned, 3 to 5 minutes. (Don't worry if the sausage is not completely cooked through.) Add the garlic and cook for 30 seconds.
 4. Add the wine and cook, scraping any bits from the bottom of the pan, until the wine is reduced by half, about 1 minute.
-5. Add the broccoli rabe, chickpeas, 1 teaspoon salt and ½ teaspoon pepper to the skillet and cook over medium heat, stirring often, until the sausage is cooked through and the broccoli rabe is very tender, about 3 minutes.
-6. Add the pasta and ½ cup of the reserved pasta water, toss well, and cook over low heat until the sauce comes together, about 1 to 2 minutes. Add additional pasta water, a few tablespoons at a time, if needed for moisture.
-7. Remove the pan from the heat, add the butter, Parmesan, lemon zest and lemon juice, and toss until the butter is melted. Divide pasta among shallow bowls and top with additional cheese sprinkled on top.
----
-#### Finish
-
-- 
----
+5. Add the broccoli rabe, chickpeas, 1 teaspoon salt and 1/2 teaspoon pepper to the skillet and cook over medium heat, stirring often, until the sausage is cooked through and the broccoli rabe is very tender, about 3 minutes.
+6. Add the pasta and 1/2 cup of the reserved pasta water, toss well, and cook over low heat until the sauce comes together, about 1 to 2 minutes. Add additional pasta water, a few tablespoons at a time, if needed for moisture.
+7. Remove the pan from the heat, add the butter, Parmesan, lemon zest and lemon juice, and toss until the butter is melted. Divide pasta am

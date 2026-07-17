@@ -1,0 +1,13 @@
+# Obsidian workspace/session state — machine-specific, changes constantly
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/cache/
+
+# Obsidian trash
+.trash/
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini

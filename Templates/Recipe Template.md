@@ -1,33 +1,4 @@
----
-aliases: 
-source: 
-tags:
-  - recipe
-link:
----
-### Recipe Name 
-
-#### Time:
-#### Yield:
-
->Notes: 
-
----
-### Ingredients 
-#ingredients 
-- [ ] a
-- [x] b
---- 
-#### Intro
-
-A
-
---- 
-#### Directions 
-
-1. 
----
-#### Finish
-
-- 
----
+<%*
+// ── Recipe Template (Templater) ─────────────────────────────────
+// Prompts for metadata, builds frontmatter + tags, and files the
+// note into Recipes/<Cuisine>/. Esc on any pro
