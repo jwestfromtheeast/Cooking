@@ -25,6 +25,10 @@ views:
       - tried
       - favorite
     sort:
+      - property: difficulty
+        direction: DESC
+      - property: course
+        direction: DESC
       - property: cuisine
         direction: ASC
       - property: file.name

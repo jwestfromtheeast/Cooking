@@ -66,4 +66,25 @@ tags:
 > [!note]- Notes
 > - 
 
-## I
+## Ingredients
+
+#ingredients
+- [ ] 
+
+## Directions
+
+1. 
+
+## To Serve
+
+- 
+
+## Variations & Substitutions
+
+- 
+
+## Log
+
+| Date | Rating | Notes |
+| ---- | ------ | ----- |
+|      |        |       |

@@ -35,7 +35,7 @@ tags:
 > **Difficulty:** hard (a project, but every component can be made a day ahead) · **Source:** [NYT Cooking](https://cooking.nytimes.com/recipes/1021031-the-big-lasagna)
 
 > [!note]- Notes
-> - Samin Nosrat's #TheBigLasagna ([video](https://www.youtube.com/watch?v=GLma4QPNSyg)): handmade pasta, béchamel, tomato sauce, ricotta-spinach filling. Store-bought noodles and marinara are officially sanctioned shortcuts.
+> - Samin Nosrat's ([video](https://www.youtube.com/watch?v=GLma4QPNSyg)): handmade pasta, béchamel, tomato sauce, ricotta-spinach filling. Store-bought noodles and marinara are officially sanctioned shortcuts.
 > - Ricotta filling and béchamel both keep 1 day ahead, refrigerated — bring to room temp before assembling.
 > - Vegan path: cashew-milk béchamel with vegan butter, cashew ricotta, egg-free dried pasta.
 > - Freezes well: bake 30 min without browning, cool, freeze up to 4 weeks; finish with mozzarella at 400°F for 25–30 min.
