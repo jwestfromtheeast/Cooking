@@ -3,7 +3,7 @@ aliases:
   - Chicken Meatball Soup
   - Coconut Chicken Meatball Soup
 source: NYT Cooking
-author: 
+author: Ali Slagle
 url: https://cooking.nytimes.com/recipes/1020631-thai-inspired-chicken-meatball-soup
 cuisine: thai
 course: main
