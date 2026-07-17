@@ -10,11 +10,11 @@ prep_time: 25
 cook_time: 30
 total_time: 295
 servings: 8
-rating: 
+rating:
 tried: false
 favorite: false
 date_added: 2026-07-16
-last_made: 
+last_made:
 tags:
   - recipe
   - cuisine/american
