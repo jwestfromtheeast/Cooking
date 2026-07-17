@@ -83,4 +83,6 @@ tags:
 
 ## Log
 
-| Date |
+| Date | Rating | Notes |
+| ---- | ------ | ----- |
+|      |        |       |

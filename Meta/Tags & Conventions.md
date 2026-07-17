@@ -12,6 +12,9 @@ The single source of truth for how recipes in this vault are structured. Every r
 ```
 Cooking/
 ├── Home.md                  ← dashboard (start here)
+├── What Should I Eat.md     ← random-pick buttons with constraints
+├── Meal Plan.md             ← weekly planner
+├── Components/              ← reusable sauces, marinades, stocks (tagged #component, not #recipe)
 ├── Recipes/
 │   ├── Italian/
 │   ├── Japanese/
@@ -71,4 +74,5 @@ Recipes use `#` for the title and `##` for sections, in this order: **At a Glanc
 
 1. Hotkey/command: **Templater: Create new note from template** → `Recipe Template`.
 2. Answer the prompts (name, cuisine, type, difficulty, times, key ingredients…).
-3. Th
+3. The note auto-fills its frontmatter, tags itself, and moves into `Recipes/<Cuisine>/`.
+4. Paste in ingredients and directions. Done — it appears on [[Home]] automatically.
