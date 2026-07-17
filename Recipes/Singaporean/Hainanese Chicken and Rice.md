@@ -4,7 +4,7 @@ aliases:
   - One-Pot Hainanese Chicken
 source: dougdoesdelicious
 url: https://www.instagram.com/p/DaiwZnvvmjV
-cuisine: chinese
+cuisine: singaporean
 course: main
 difficulty: easy
 prep_time: 15
@@ -18,7 +18,7 @@ date_added: 2026-07-16
 last_made: 
 tags:
   - recipe
-  - cuisine/chinese
+  - cuisine/singaporean
   - type/rice
   - difficulty/easy
   - ingredient/chicken

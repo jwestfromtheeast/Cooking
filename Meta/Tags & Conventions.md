@@ -15,8 +15,10 @@ Cooking/
 ├── Recipes/
 │   ├── Italian/
 │   ├── Japanese/
+│   ├── Singaporean/
 │   ├── Thai/
-│   └── <Cuisine>/           ← one folder per cuisine, Title Case
+│   ├── <Country>/           ← one folder per country-level cuisine, Title Case
+│   └── Other/               ← fusion, unknown, or uncategorizable
 ├── Templates/
 │   └── Recipe Template.md   ← Templater-powered, prompts on creation
 └── Meta/                    ← docs & index notes (this file, Recipe Browser)
@@ -51,7 +53,7 @@ All tags are lowercase and hyphenated. Every recipe gets `#recipe` plus tags fro
 
 | Namespace      | Required | Examples                                                    |
 | -------------- | -------- | ----------------------------------------------------------- |
-| `cuisine/`     | yes      | `cuisine/japanese`, `cuisine/italian`, `cuisine/thai`, `cuisine/middle-eastern` |
+| `cuisine/`     | yes      | Country-level: `cuisine/japanese`, `cuisine/italian`, `cuisine/singaporean`, `cuisine/thai`; use `cuisine/other` for fusion/unknown |
 | `type/`        | yes      | `type/pasta`, `type/soup`, `type/rice`, `type/curry`, `type/stir-fry`, `type/salad`, `type/roast`, `type/fish`, `type/baked-goods`, `type/dessert`, `type/sauce` |
 | `difficulty/`  | yes      | `difficulty/easy`, `difficulty/medium`, `difficulty/hard`   |
 | `ingredient/`  | yes      | 2–4 *key* ingredients only: `ingredient/chicken`, `ingredient/miso`, `ingredient/mushroom` |
@@ -69,5 +71,4 @@ Recipes use `#` for the title and `##` for sections, in this order: **At a Glanc
 
 1. Hotkey/command: **Templater: Create new note from template** → `Recipe Template`.
 2. Answer the prompts (name, cuisine, type, difficulty, times, key ingredients…).
-3. The note auto-fills its frontmatter, tags itself, and moves into `Recipes/<Cuisine>/`.
-4. Paste in ingredients and directions. Done — it appears on [[Home]] automatically.
+3. Th

@@ -6,10 +6,10 @@ let title = tp.file.title;
 if (title.startsWith("Untitled")) {
   title = (await tp.system.prompt("Recipe name")) ?? "New Recipe";
 }
-const cuisines = ["Italian","Japanese","Thai","Chinese","Korean","Vietnamese","Indian","Mexican","French","Spanish","Greek","Mediterranean","Middle Eastern","American","Other…"];
-let cuisine = await tp.system.suggester(cuisines, cuisines, false, "Cuisine");
+const cuisines = ["American","Chinese","Filipino","French","German","Greek","Indian","Indonesian","Italian","Japanese","Korean","Lebanese","Malaysian","Mexican","Moroccan","Singaporean","Spanish","Thai","Turkish","Vietnamese","Other…"];
+let cuisine = await tp.system.suggester(cuisines, cuisines, false, "Cuisine (country)");
 if (!cuisine || cuisine === "Other…") {
-  cuisine = (await tp.system.prompt("Cuisine (Title Case, used as folder name)")) ?? "Uncategorized";
+  cuisine = (await tp.system.prompt("Cuisine / country (Title Case, used as folder name)")) ?? "Other";
 }
 const courses = ["main","side","appetizer","soup","salad","dessert","breakfast","snack","drink","sauce"];
 const course = (await tp.system.suggester(courses, courses, false, "Course")) ?? "main";
@@ -83,6 +83,4 @@ tags:
 
 ## Log
 
-| Date | Rating | Notes |
-| ---- | ------ | ----- |
-|      |        |       |
+| Date |
