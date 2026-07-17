@@ -1,0 +1,84 @@
+filters:
+  and:
+    - file.hasTag("recipe")
+    - file.inFolder("Recipes")
+properties:
+  file.name:
+    displayName: Recipe
+  total_time:
+    displayName: Time (min)
+  prep_time:
+    displayName: Prep
+  cook_time:
+    displayName: Cook
+views:
+  - type: table
+    name: All Recipes
+    order:
+      - file.name
+      - cuisine
+      - course
+      - difficulty
+      - total_time
+      - servings
+      - rating
+      - tried
+      - favorite
+    sort:
+      - property: cuisine
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: To Try
+    filters:
+      and:
+        - tried != true
+    order:
+      - file.name
+      - cuisine
+      - difficulty
+      - total_time
+      - date_added
+    sort:
+      - property: date_added
+        direction: DESC
+  - type: table
+    name: Quick Meals
+    filters:
+      and:
+        - total_time <= 35
+    order:
+      - file.name
+      - cuisine
+      - course
+      - total_time
+      - difficulty
+    sort:
+      - property: total_time
+        direction: ASC
+  - type: table
+    name: Favorites
+    filters:
+      and:
+        - favorite == true
+    order:
+      - file.name
+      - cuisine
+      - rating
+      - last_made
+    sort:
+      - property: rating
+        direction: DESC
+  - type: table
+    name: Recently Made
+    filters:
+      and:
+        - last_made != null
+    order:
+      - file.name
+      - last_made
+      - rating
+    sort:
+      - property: last_made
+        direction: DESC

@@ -12,7 +12,7 @@ cook_time: 25
 total_time: 45
 servings: 6
 rating: 
-tried: false
+tried: true
 favorite: false
 date_added: 2026-07-16
 last_made: 
@@ -69,4 +69,13 @@ tags:
 - Top with additional lime juice and cilantro for garnish.
 - Serve with lime wedges over steamed rice — the soup is brothy, so the rice makes it a full meal.
 
-##
+## Variations & Substitutions
+
+- Inspired by tom kha gai (Thai chicken-coconut soup with lemongrass, galangal, makrut lime leaves and chile).
+- Turkey works in place of chicken (see notes re: binding).
+
+## Log
+
+| Date | Rating | Notes |
+| ---- | ------ | ----- |
+|      |        |       |

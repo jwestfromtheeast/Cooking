@@ -12,7 +12,7 @@ cook_time: 10
 total_time: 30
 servings: 4
 rating: 
-tried: false
+tried: true
 favorite: false
 date_added: 2026-07-16
 last_made: 
@@ -58,4 +58,11 @@ tags:
 
 ## Variations & Substitutions
 
-- Miso-marinated black cod is a
+- Miso-marinated black cod is almost synonymous with Nobu, though it stems from a traditional Japanese preparation called *kasuzuke* (fish marinated in sake lees, then broiled or grilled). Japanese markets often sell it pre-marinated, ready to broil.
+- Salmon or sea bass take the same marinade well.
+
+## Log
+
+| Date | Rating | Notes |
+| ---- | ------ | ----- |
+|      |        |       |

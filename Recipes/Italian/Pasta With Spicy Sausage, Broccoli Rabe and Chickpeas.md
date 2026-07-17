@@ -12,7 +12,7 @@ cook_time: 20
 total_time: 30
 servings: 4
 rating: 
-tried: false
+tried: true
 favorite: false
 date_added: 2026-07-16
 last_made: 
@@ -59,4 +59,19 @@ tags:
 4. Add the wine and cook, scraping any bits from the bottom of the pan, until the wine is reduced by half, about 1 minute.
 5. Add the broccoli rabe, chickpeas, 1 teaspoon salt and 1/2 teaspoon pepper to the skillet and cook over medium heat, stirring often, until the sausage is cooked through and the broccoli rabe is very tender, about 3 minutes.
 6. Add the pasta and 1/2 cup of the reserved pasta water, toss well, and cook over low heat until the sauce comes together, about 1 to 2 minutes. Add additional pasta water, a few tablespoons at a time, if needed for moisture.
-7. Remove the pan from the heat, add the butter, Parmesan, lemon zest and lemon juice, and toss until the butter is melted. Divide pasta am
+7. Remove the pan from the heat, add the butter, Parmesan, lemon zest and lemon juice, and toss until the butter is melted. Divide pasta among shallow bowls and top with additional cheese sprinkled on top.
+
+## To Serve
+
+- Extra grated Parmesan or pecorino on top.
+
+## Variations & Substitutions
+
+- Chickpeas add an earthy, nutty note to the classic sausage + broccoli rabe combo; butter, Parmesan, and lemon at the end balance the heat.
+- Sweet sausage, ground pork, or turkey all work; white beans can stand in for chickpeas.
+
+## Log
+
+| Date | Rating | Notes |
+| ---- | ------ | ----- |
+|      |        |       |
