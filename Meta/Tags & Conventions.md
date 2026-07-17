@@ -43,11 +43,11 @@ Every recipe has these properties. Numeric times (minutes) make sorting and "qui
 | `cook_time`  | number  | `30`                     | minutes                                  |
 | `total_time` | number  | `45`                     | minutes, incl. marinating etc.           |
 | `servings`   | number  | `4`                      |                                          |
-| `rating`     | number  | `4`                      | 1–5, leave blank until tried             |
+| `rating`     | number  | `8`                      | **1–10**, leave blank until tried. Rough guide: 9–10 house staple, 7–8 make again, 5–6 fine once, ≤4 skip. [[Vault Health]] flags out-of-range values. |
 | `tried`      | checkbox| `true`                   | have you actually made it?               |
 | `favorite`   | checkbox| `false`                  | greatest-hits flag                       |
 | `date_added` | date    | `2026-07-16`             |                                          |
-| `last_made`  | date    |                          | update from the Log section              |
+| `last_made`  | date    | `2026-07-16`             | enforced as a date (picker in Properties panel); update after cooking |
 | `tags`       | list    | see below                |                                          |
 
 ## Tag taxonomy (nested)
@@ -68,11 +68,4 @@ Rules of thumb: tag the ingredients you'd *search by* ("what can I make with mus
 
 ## Body structure
 
-Recipes use `#` for the title and `##` for sections, in this order: **At a Glance** callout → **Notes** callout → **Ingredients** (checkboxes, under an `#ingredients` inline tag so checklist plugins can build shopping lists) → **Directions** → **To Serve** → **Variations & Substitutions** → **Log** (a table of dates made, ratings, and tweaks — update `last_made` and `rating` properties from it).
-
-## Adding a recipe
-
-1. Hotkey/command: **Templater: Create new note from template** → `Recipe Template`.
-2. Answer the prompts (name, cuisine, type, difficulty, times, key ingredients…).
-3. The note auto-fills its frontmatter, tags itself, and moves into `Recipes/<Cuisine>/`.
-4. Paste in ingredients and directions. Done — it appears on [[Home]] automatically.
+Recipes use `#` for the title and `##` for sections, in this order: **At a Glance** callout → **Notes** callout → **Ingredients** (checkboxes, under an `#ingredients` inline tag so checklist plugins can build shopping list

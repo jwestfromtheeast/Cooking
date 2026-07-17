@@ -1,0 +1,18 @@
+{
+  "types": {
+    "rating": "number",
+    "prep_time": "number",
+    "cook_time": "number",
+    "total_time": "number",
+    "servings": "number",
+    "tried": "checkbox",
+    "favorite": "checkbox",
+    "last_made": "date",
+    "date_added": "date",
+    "cuisine": "text",
+    "course": "text",
+    "difficulty": "text",
+    "source": "text",
+    "url": "text"
+  }
+}
