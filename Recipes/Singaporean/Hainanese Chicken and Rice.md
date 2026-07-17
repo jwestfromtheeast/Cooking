@@ -37,7 +37,7 @@ tags:
 > [!note]- Notes
 > - "80/20" version — most of the result without poaching a whole chicken.
 > - Bone-in, skin-on thighs preferred.
-> - Do NOT skip the two sauces — they're the star of the dish.
+> - Do NOT skip the two sauces — they're the star of the dish. Standalone versions: [[Ginger Scallion Sauce]] · [[Chili Garlic Sauce]]
 > - No need to rinse the rice.
 > - See [[#Rice Cooker Variant]] below for the even lazier version.
 
@@ -111,6 +111,4 @@ Same dish, ~20% effort ([recipe](https://thefoodie.menu/recipes/rice-cooker-hain
 
 ## Log
 
-| Date | Rating | Notes |
-| ---- | ------ | ----- |
-|      |        |       |
+| Dat
