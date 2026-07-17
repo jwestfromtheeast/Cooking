@@ -53,4 +53,4 @@ GROUP BY t as Ingredient
 SORT Ingredient ASC
 ```
 
-Recipes appear once per key ingredient here — that's expected. For one-off searches use the search pane: `
+Recipes appear once per key ingredient here — that's expected. For one-off searches use the search pane: `tag:#ingredient/chicken`.
