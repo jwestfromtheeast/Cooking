@@ -10,7 +10,7 @@ Every recipe, grouped different ways. New cuisines/types appear automatically.
 ## By cuisine
 
 ```dataview
-TABLE WITHOUT ID rows.file.link as Recipes, length(rows) as Count
+TABLE rows.file.link as Recipes, length(rows) as Count
 FROM "Recipes"
 GROUP BY cuisine as Cuisine
 SORT Cuisine ASC
@@ -19,7 +19,7 @@ SORT Cuisine ASC
 ## By course
 
 ```dataview
-TABLE WITHOUT ID rows.file.link as Recipes, length(rows) as Count
+TABLE rows.file.link as Recipes, length(rows) as Count
 FROM "Recipes"
 GROUP BY course as Course
 SORT Course ASC
@@ -28,7 +28,7 @@ SORT Course ASC
 ## By difficulty
 
 ```dataview
-TABLE WITHOUT ID rows.file.link as Recipes, length(rows) as Count
+TABLE rows.file.link as Recipes, length(rows) as Count
 FROM "Recipes"
 GROUP BY difficulty as Difficulty
 SORT Difficulty ASC
@@ -42,15 +42,15 @@ FROM "Recipes"
 SORT cuisine ASC, file.name ASC
 ```
 
-## Search by ingredient
-
-Use the tag pane or search, e.g. `tag:#ingredient/chicken`. Ingredient tags in use:
+## By key ingredient
 
 ```dataview
-TABLE WITHOUT ID rows.file.link as Recipes
+TABLE rows.file.link as Recipes, length(rows) as Count
 FROM "Recipes"
 FLATTEN file.etags as t
 WHERE startswith(t, "#ingredient/")
 GROUP BY t as Ingredient
 SORT Ingredient ASC
 ```
+
+Recipes appear once per key ingredient here — that's expected. For one-off searches use the search pane: `
