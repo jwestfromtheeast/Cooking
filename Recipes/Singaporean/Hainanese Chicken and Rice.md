@@ -111,4 +111,6 @@ Same dish, ~20% effort ([recipe](https://thefoodie.menu/recipes/rice-cooker-hain
 
 ## Log
 
-| Dat
+| Date | Rating | Notes |
+| ---- | ------ | ----- |
+|      |        |       |
