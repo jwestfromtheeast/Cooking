@@ -1,7 +1,8 @@
 ---
 aliases:
   - Vinegar Chicken
-source: NYT Cooking (Alison Roman)
+source: NYT Cooking
+author: Alison Roman
 url: https://cooking.nytimes.com/recipes/1020486-vinegar-chicken-with-crushed-olive-dressing
 cuisine: american
 course: main

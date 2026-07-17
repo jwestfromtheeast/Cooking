@@ -34,7 +34,8 @@ Every recipe has these properties. Numeric times (minutes) make sorting and "qui
 | Property     | Type    | Example                  | Notes                                    |
 | ------------ | ------- | ------------------------ | ---------------------------------------- |
 | `aliases`    | list    | `[Miso Cod]`             | Alternate names for quick switcher       |
-| `source`     | text    | `NYT Cooking`            | Publication / book / person              |
+| `source`     | text    | `NYT Cooking`            | Publication or cookbook title ("The Wok", "Salt Fat Acid Heat") |
+| `author`     | text    | `Eric Kim`               | Recipe author; "X, adapted by Y" is fine. Search: `["author":Kim]` or Dataview `contains(author, "Kim")` |
 | `url`        | text    | `https://…`              | Link to original                         |
 | `cuisine`    | text    | `japanese`               | lowercase, hyphenated                    |
 | `course`     | text    | `main`                   | main, side, appetizer, soup, salad, dessert, breakfast, snack, drink, sauce |
@@ -68,11 +69,4 @@ Rules of thumb: tag the ingredients you'd *search by* ("what can I make with mus
 
 ## Body structure
 
-Recipes use `#` for the title and `##` for sections, in this order: **At a Glance** callout → **Notes** callout → **Ingredients** (checkboxes, under an `#ingredients` inline tag so checklist plugins can build shopping lists) → **Directions** → **To Serve** → **Variations & Substitutions** → **Log** (freeform table of dates made, ratings, and tweaks — nothing queries it, so write whatever's useful; just remember the `last_made` and `rating` *properties* are what feed the dashboards).
-
-## Adding a recipe
-
-1. Hotkey/command: **Templater: Create new note from template** → `Recipe Template`.
-2. Answer the prompts (name, cuisine, type, difficulty, times, key ingredients…).
-3. The note auto-fills its frontmatter, tags itself, and moves into `Recipes/<Cuisine>/`.
-4. Paste in ingredients and directions. Done — it appears on [[Home]] automatically.
+Recipes use `#` for the title and `##` for

@@ -2,7 +2,8 @@
 aliases:
   - White Bean Hummus
   - White Bean Dip
-source: NYT Cooking (Genevieve Ko)
+source: NYT Cooking
+author: Genevieve Ko
 url: https://cooking.nytimes.com/recipes/1019521-white-bean-hummus-with-tahini-and-coriander
 cuisine: american
 course: appetizer

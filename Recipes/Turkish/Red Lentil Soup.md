@@ -2,7 +2,8 @@
 aliases:
   - Mercimek Corbasi
   - Turkish Lentil Soup
-source: NYT Cooking (Melissa Clark)
+source: NYT Cooking
+author: Melissa Clark
 url: https://cooking.nytimes.com/recipes/1016062-red-lentil-soup
 cuisine: turkish
 course: main

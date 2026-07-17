@@ -1,7 +1,8 @@
 ---
 aliases:
   - Broiled Halloumi and Beans
-source: NYT Cooking (Nargisse Benkabbou)
+source: NYT Cooking
+author: Nargisse Benkabbou
 url: https://cooking.nytimes.com/recipes/1026520-crispy-halloumi-with-tomatoes-and-white-beans
 cuisine: greek
 course: main

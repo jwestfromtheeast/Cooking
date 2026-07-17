@@ -3,6 +3,7 @@ aliases:
   - Miso Cod
   - Miso Black Cod
 source: Serious Eats
+author: 
 url: https://www.seriouseats.com/easy-broiled-miso-marinated-black-cod
 cuisine: japanese
 course: main

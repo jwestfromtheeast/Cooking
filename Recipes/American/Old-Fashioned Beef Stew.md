@@ -1,7 +1,8 @@
 ---
 aliases:
   - Beef Stew
-source: NYT Cooking (Molly O'Neill)
+source: NYT Cooking
+author: Molly O'Neill
 url: https://cooking.nytimes.com/recipes/4735-old-fashioned-beef-stew
 cuisine: american
 course: main

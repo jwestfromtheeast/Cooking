@@ -2,7 +2,8 @@
 aliases:
   - Chocolate Chip Cookies
   - NYT Chocolate Chip Cookies
-source: NYT Cooking (Jacques Torres, adapted by David Leite)
+source: NYT Cooking
+author: Jacques Torres, adapted by David Leite
 url: https://cooking.nytimes.com/recipes/1015819-chocolate-chip-cookies
 cuisine: american
 course: dessert

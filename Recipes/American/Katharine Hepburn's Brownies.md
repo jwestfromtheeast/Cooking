@@ -1,7 +1,8 @@
 ---
 aliases:
   - Hepburn Brownies
-source: NYT Cooking (The New York Times)
+source: NYT Cooking
+author: The New York Times
 url: https://cooking.nytimes.com/recipes/10782-katharine-hepburns-brownies
 cuisine: american
 course: dessert

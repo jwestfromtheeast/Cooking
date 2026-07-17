@@ -1,7 +1,8 @@
 ---
 aliases:
   - Miso Sesame Dressing
-source: NYT Cooking (J. Kenji López-Alt)
+source: NYT Cooking
+author: J. Kenji López-Alt
 url: https://cooking.nytimes.com/recipes/1021463-miso-sesame-vinaigrette-thats-good-on-anything
 cuisine: japanese
 course: sauce

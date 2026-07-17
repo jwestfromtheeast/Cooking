@@ -3,7 +3,8 @@ aliases:
   - Cheese Buldak
   - Fire Chicken
   - Maangchi's Cheese Buldak
-source: NYT Cooking (Maangchi, adapted by Sam Sifton)
+source: NYT Cooking
+author: Maangchi, adapted by Sam Sifton
 url: https://cooking.nytimes.com/recipes/1020366-maangchis-cheese-buldak-fire-chicken
 cuisine: korean
 course: main

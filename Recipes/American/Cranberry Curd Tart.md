@@ -1,7 +1,8 @@
 ---
 aliases:
   - Cranberry Tart
-source: NYT Cooking (David Tanis; crust adapted from David Lebovitz)
+source: NYT Cooking
+author: David Tanis; crust adapted from David Lebovitz
 url: https://cooking.nytimes.com/recipes/1017817-cranberry-curd-tart
 cuisine: american
 course: dessert

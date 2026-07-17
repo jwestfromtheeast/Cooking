@@ -1,7 +1,8 @@
 ---
 aliases:
   - Gochujang Cookies
-source: NYT Cooking (Eric Kim)
+source: NYT Cooking
+author: Eric Kim
 url: https://cooking.nytimes.com/recipes/1023675-gochujang-caramel-cookies
 cuisine: korean
 course: dessert

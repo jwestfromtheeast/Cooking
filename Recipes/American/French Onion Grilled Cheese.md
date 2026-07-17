@@ -1,7 +1,8 @@
 ---
 aliases:
   - Caramelized Onion Grilled Cheese
-source: NYT Cooking (Ali Slagle)
+source: NYT Cooking
+author: Ali Slagle
 url: https://cooking.nytimes.com/recipes/1020107-french-onion-grilled-cheese
 cuisine: american
 course: main

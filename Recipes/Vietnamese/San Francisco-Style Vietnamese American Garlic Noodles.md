@@ -1,7 +1,8 @@
 ---
 aliases:
   - Garlic Noodles
-source: NYT Cooking (J. Kenji López-Alt, from "The Wok")
+source: NYT Cooking
+author: J. Kenji López-Alt
 url: https://cooking.nytimes.com/recipes/1023012-san-francisco-style-vietnamese-american-garlic-noodles
 cuisine: vietnamese
 course: main

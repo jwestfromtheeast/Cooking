@@ -1,7 +1,8 @@
 ---
 aliases:
   - White Bean Stew
-source: NYT Cooking (Alison Roman)
+source: NYT Cooking
+author: Alison Roman
 url: https://cooking.nytimes.com/recipes/1020754-spicy-white-bean-stew-with-broccoli-rabe
 cuisine: american
 course: main

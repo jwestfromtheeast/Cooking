@@ -1,7 +1,8 @@
 ---
 aliases:
   - Claire Saffitz Croissants
-source: NYT Cooking (Claire Saffitz)
+source: NYT Cooking
+author: Claire Saffitz
 url: https://cooking.nytimes.com/recipes/1022053-croissants
 cuisine: french
 course: breakfast

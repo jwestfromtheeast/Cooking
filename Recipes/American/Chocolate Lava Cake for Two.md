@@ -2,7 +2,8 @@
 aliases:
   - Molten Chocolate Cake
   - Lava Cake
-source: NYT Cooking (Yossy Arefi)
+source: NYT Cooking
+author: Yossy Arefi
 url: https://cooking.nytimes.com/recipes/1019957-chocolate-lava-cake-for-two
 cuisine: american
 course: dessert

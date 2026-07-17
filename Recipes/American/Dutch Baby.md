@@ -1,7 +1,8 @@
 ---
 aliases:
   - German Pancake
-source: NYT Cooking (Florence Fabricant)
+source: NYT Cooking
+author: Florence Fabricant
 url: https://cooking.nytimes.com/recipes/6648-dutch-baby
 cuisine: american
 course: breakfast

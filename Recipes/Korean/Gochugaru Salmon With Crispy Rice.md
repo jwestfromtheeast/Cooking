@@ -1,7 +1,8 @@
 ---
 aliases:
   - Gochugaru Salmon
-source: NYT Cooking (Eric Kim)
+source: NYT Cooking
+author: Eric Kim
 url: https://cooking.nytimes.com/recipes/1022132-gochugaru-salmon-with-crispy-rice
 cuisine: korean
 course: main

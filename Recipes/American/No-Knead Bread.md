@@ -2,7 +2,8 @@
 aliases:
   - Jim Lahey No-Knead Bread
   - Sullivan Street Bread
-source: NYT Cooking (Jim Lahey, adapted by Mark Bittman)
+source: NYT Cooking
+author: Jim Lahey, adapted by Mark Bittman
 url: https://cooking.nytimes.com/recipes/11376-no-knead-bread
 cuisine: american
 course: side

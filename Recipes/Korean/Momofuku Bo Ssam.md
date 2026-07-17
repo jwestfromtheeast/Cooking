@@ -2,7 +2,8 @@
 aliases:
   - Bo Ssam
   - Slow-Roasted Pork Shoulder Lettuce Wraps
-source: NYT Cooking (David Chang & Peter Meehan, adapted by Sam Sifton)
+source: NYT Cooking
+author: David Chang & Peter Meehan, adapted by Sam Sifton
 url: https://cooking.nytimes.com/recipes/12197-momofukus-bo-ssam
 cuisine: korean
 course: main

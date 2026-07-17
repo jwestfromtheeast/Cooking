@@ -1,7 +1,8 @@
 ---
 aliases:
   - Pizza Chicken
-source: NYT Cooking (Melissa Clark)
+source: NYT Cooking
+author: Melissa Clark
 url: https://cooking.nytimes.com/recipes/1017910-skillet-chicken-with-tomatoes-pancetta-and-mozzarella
 cuisine: italian
 course: main

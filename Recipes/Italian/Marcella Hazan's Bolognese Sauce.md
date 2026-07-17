@@ -2,7 +2,8 @@
 aliases:
   - Bolognese
   - Bolognese Sauce
-source: NYT Cooking (Marcella Hazan, "Essentials of Classic Italian Cooking")
+source: NYT Cooking
+author: Marcella Hazan
 url: https://cooking.nytimes.com/recipes/1015181-marcella-hazans-bolognese-sauce
 cuisine: italian
 course: main

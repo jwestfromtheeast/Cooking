@@ -1,7 +1,8 @@
 ---
 aliases:
   - Spinach Feta Orzo
-source: NYT Cooking (Melissa Clark)
+source: NYT Cooking
+author: Melissa Clark
 url: https://cooking.nytimes.com/recipes/1021485-one-pan-orzo-with-spinach-and-feta
 cuisine: greek
 course: main

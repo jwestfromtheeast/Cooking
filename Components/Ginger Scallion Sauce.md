@@ -1,7 +1,8 @@
 ---
 aliases:
   - Ginger Scallion Oil
-source: dougdoesdelicious
+source: Instagram
+author: dougdoesdelicious
 url: https://www.instagram.com/p/DaiwZnvvmjV
 cuisine: chinese
 course: sauce

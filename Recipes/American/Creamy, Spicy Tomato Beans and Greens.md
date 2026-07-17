@@ -1,7 +1,8 @@
 ---
 aliases:
   - Red Pesto Beans
-source: NYT Cooking (Alexa Weibel)
+source: NYT Cooking
+author: Alexa Weibel
 url: https://cooking.nytimes.com/recipes/1025325-creamy-spicy-tomato-beans-and-greens
 cuisine: american
 course: main

@@ -2,7 +2,8 @@
 aliases:
   - Limonada Suíça
   - Brazilian Lemonade
-source: NYT Cooking (Gabriella Lewis)
+source: NYT Cooking
+author: Gabriella Lewis
 url: https://cooking.nytimes.com/recipes/1024120-limonada-brazilian-lemonade
 cuisine: brazilian
 course: drink

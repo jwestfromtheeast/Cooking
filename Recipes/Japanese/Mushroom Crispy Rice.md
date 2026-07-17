@@ -2,6 +2,7 @@
 aliases:
   - Miso Mushroom Crispy Rice
 source: Momofuku
+author: 
 url: https://shop.momofuku.com/blogs/recipes/miso-mushroom-crispy-rice
 cuisine: japanese
 course: main

@@ -1,7 +1,8 @@
 ---
 aliases:
   - Sun-Dried Tomato Cream Chicken
-source: NYT Cooking (Naz Deravian)
+source: NYT Cooking
+author: Naz Deravian
 url: https://cooking.nytimes.com/recipes/1024503-marry-me-chicken
 cuisine: american
 course: main

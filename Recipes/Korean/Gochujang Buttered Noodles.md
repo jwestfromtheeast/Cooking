@@ -1,7 +1,8 @@
 ---
 aliases:
   - Gochujang Noodles
-source: NYT Cooking (Eric Kim)
+source: NYT Cooking
+author: Eric Kim
 url: https://cooking.nytimes.com/recipes/1024066-gochujang-buttered-noodles
 cuisine: korean
 course: main

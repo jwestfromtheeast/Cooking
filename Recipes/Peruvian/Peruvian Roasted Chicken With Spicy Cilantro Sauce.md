@@ -2,7 +2,8 @@
 aliases:
   - Peruvian Chicken
   - Pollo a la Brasa (Oven)
-source: NYT Cooking (Melissa Clark)
+source: NYT Cooking
+author: Melissa Clark
 url: https://cooking.nytimes.com/recipes/1018974-peruvian-roasted-chicken-with-spicy-cilantro-sauce
 cuisine: peruvian
 course: main

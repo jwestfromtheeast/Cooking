@@ -1,7 +1,8 @@
 ---
 aliases:
   - Blueberry Cobbler
-source: NYT Cooking (Lindsey Remolif Shere / Chez Panisse, adapted by Molly O'Neill)
+source: NYT Cooking
+author: Lindsey Remolif Shere / Chez Panisse, adapted by Molly O'Neill
 url: https://cooking.nytimes.com/recipes/9291-chez-panisses-blueberry-cobbler
 cuisine: american
 course: dessert

@@ -1,7 +1,8 @@
 ---
 aliases:
   - Miso Salmon Curry
-source: NYT Cooking (Kay Chun)
+source: NYT Cooking
+author: Kay Chun
 url: https://cooking.nytimes.com/recipes/1020045-coconut-miso-salmon-curry
 cuisine: japanese
 course: main

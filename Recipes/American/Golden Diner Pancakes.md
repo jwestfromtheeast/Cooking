@@ -2,7 +2,8 @@
 aliases:
   - Golden Diner Pancakes
   - Soufflé Diner Pancakes
-source: NYT Cooking (Sam Yoo, adapted by Genevieve Ko)
+source: NYT Cooking
+author: Sam Yoo, adapted by Genevieve Ko
 url: https://cooking.nytimes.com/recipes/1027064-golden-diner-pancakes
 cuisine: american
 course: breakfast

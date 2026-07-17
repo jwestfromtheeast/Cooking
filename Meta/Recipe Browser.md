@@ -53,15 +53,4 @@ GROUP BY t as Ingredient
 SORT Ingredient ASC
 ```
 
-Recipes appear once per key ingredient here — that's expected. For one-off searches use the search pane: `tag:#ingredient/chicken`.
-
-## Components by type
-
-```dataview
-TABLE rows.file.link as Components, length(rows) as Count
-FROM "Components"
-FLATTEN file.etags as t
-WHERE startswith(t, "#type/")
-GROUP BY t as Type
-SORT Type ASC
-```
+Recipes appear once per key ingredient here — that's expected. For one-off searches use the search pane: `

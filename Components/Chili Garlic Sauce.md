@@ -1,7 +1,8 @@
 ---
 aliases:
   - Hainanese Chili Sauce
-source: dougdoesdelicious
+source: Instagram
+author: dougdoesdelicious
 url: https://www.instagram.com/p/DaiwZnvvmjV
 cuisine: singaporean
 course: sauce

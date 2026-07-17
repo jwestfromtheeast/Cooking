@@ -2,7 +2,8 @@
 aliases:
   - Hainanese Chicken Rice
   - One-Pot Hainanese Chicken
-source: dougdoesdelicious
+source: Instagram
+author: dougdoesdelicious
 url: https://www.instagram.com/p/DaiwZnvvmjV
 cuisine: singaporean
 course: main
@@ -111,6 +112,4 @@ Same dish, ~20% effort ([recipe](https://thefoodie.menu/recipes/rice-cooker-hain
 
 ## Log
 
-| Date | Rating | Notes |
-| ---- | ------ | ----- |
-|      |        |       |
+| Dat

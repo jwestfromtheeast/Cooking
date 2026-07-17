@@ -2,7 +2,8 @@
 aliases:
   - Baked Feta
   - Sheet-Pan Feta
-source: NYT Cooking (Yasmin Fahr)
+source: NYT Cooking
+author: Yasmin Fahr
 url: https://cooking.nytimes.com/recipes/1021277-sheet-pan-baked-feta-with-broccolini-tomatoes-and-lemon
 cuisine: greek
 course: main

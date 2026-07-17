@@ -2,7 +2,8 @@
 aliases:
   - Niku Udon
   - Japanese Beef Noodle Soup
-source: NYT Cooking (J. Kenji López-Alt)
+source: NYT Cooking
+author: J. Kenji López-Alt
 url: https://cooking.nytimes.com/recipes/1023569-niku-udon-japanese-beef-noodle-soup
 cuisine: japanese
 course: main

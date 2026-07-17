@@ -2,7 +2,8 @@
 aliases:
   - Gazpacho
   - Sevillian Gazpacho
-source: NYT Cooking (Julia Moskin)
+source: NYT Cooking
+author: Julia Moskin
 url: https://cooking.nytimes.com/recipes/1017577-best-gazpacho
 cuisine: spanish
 course: soup

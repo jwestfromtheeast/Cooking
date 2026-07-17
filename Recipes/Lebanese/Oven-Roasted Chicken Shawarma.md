@@ -1,7 +1,8 @@
 ---
 aliases:
   - Chicken Shawarma
-source: NYT Cooking (Sam Sifton)
+source: NYT Cooking
+author: Sam Sifton
 url: https://cooking.nytimes.com/recipes/1017161-oven-roasted-chicken-shawarma
 cuisine: lebanese
 course: main

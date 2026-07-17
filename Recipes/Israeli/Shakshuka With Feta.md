@@ -1,7 +1,8 @@
 ---
 aliases:
   - Shakshuka
-source: NYT Cooking (Melissa Clark)
+source: NYT Cooking
+author: Melissa Clark
 url: https://cooking.nytimes.com/recipes/1014721-shakshuka-with-feta
 cuisine: israeli
 course: breakfast

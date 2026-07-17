@@ -21,7 +21,8 @@ const prep = parseInt((await tp.system.prompt("Prep time (minutes)", "15")) ?? "
 const cook = parseInt((await tp.system.prompt("Cook time (minutes)", "30")) ?? "0") || 0;
 const total = prep + cook;
 const servings = (await tp.system.prompt("Servings", "4")) ?? "4";
-const source = (await tp.system.prompt("Source (e.g. NYT Cooking, Serious Eats)", "")) ?? "";
+const source = (await tp.system.prompt("Source — publication or cookbook (e.g. NYT Cooking, The Wok)", "")) ?? "";
+const author = (await tp.system.prompt("Author (e.g. Eric Kim)", "")) ?? "";
 const url = (await tp.system.prompt("Source URL", "")) ?? "";
 const ingRaw = (await tp.system.prompt("Key ingredients, comma-separated (2–4, for #ingredient/ tags)", "")) ?? "";
 const slug = s => s.trim().toLowerCase().replace(/\s+/g, "-");
@@ -34,6 +35,7 @@ await tp.file.move(`Recipes/${cuisine}/${title}`);
 ---
 aliases: []
 source: <% source %>
+author: <% author %>
 url: <% url %>
 cuisine: <% cuisineTag %>
 course: <% course %>
@@ -64,25 +66,4 @@ tags:
 > [!note]- Notes
 > - 
 
-## Ingredients
-
-#ingredients
-- [ ] 
-
-## Directions
-
-1. 
-
-## To Serve
-
-- 
-
-## Variations & Substitutions
-
-- 
-
-## Log
-
-| Date | Rating | Notes |
-| ---- | ------ | ----- |
-|      |        |       |
+## I

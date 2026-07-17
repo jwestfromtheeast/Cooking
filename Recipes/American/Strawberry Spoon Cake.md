@@ -1,7 +1,8 @@
 ---
 aliases:
   - Spoon Cake
-source: NYT Cooking (Jerrelle Guy)
+source: NYT Cooking
+author: Jerrelle Guy
 url: https://cooking.nytimes.com/recipes/1021174-strawberry-spoon-cake
 cuisine: american
 course: dessert

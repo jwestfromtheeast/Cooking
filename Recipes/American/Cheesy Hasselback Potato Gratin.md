@@ -1,7 +1,8 @@
 ---
 aliases:
   - Hasselback Gratin
-source: NYT Cooking (J. Kenji López-Alt, adapted by Emily Weinstein)
+source: NYT Cooking
+author: J. Kenji López-Alt, adapted by Emily Weinstein
 url: https://cooking.nytimes.com/recipes/1017724-cheesy-hasselback-potato-gratin
 cuisine: american
 course: side

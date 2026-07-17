@@ -1,7 +1,8 @@
 ---
 aliases:
   - Lemon Potato Salad
-source: NYT Cooking (Melissa Clark)
+source: NYT Cooking
+author: Melissa Clark
 url: https://cooking.nytimes.com/recipes/1017405-lemon-potato-salad-with-mint
 cuisine: american
 course: side

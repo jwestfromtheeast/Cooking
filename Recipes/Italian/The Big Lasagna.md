@@ -1,7 +1,8 @@
 ---
 aliases:
   - Samin's Lasagna
-source: NYT Cooking (Samin Nosrat)
+source: NYT Cooking
+author: Samin Nosrat
 url: https://cooking.nytimes.com/recipes/1021031-the-big-lasagna
 cuisine: italian
 course: main

@@ -1,7 +1,8 @@
 ---
 aliases:
   - Sheet-Pan Harissa Chicken
-source: NYT Cooking (Melissa Clark)
+source: NYT Cooking
+author: Melissa Clark
 url: https://cooking.nytimes.com/recipes/1017359-sheet-pan-chicken-with-potatoes-arugula-and-garlic-yogurt
 cuisine: american
 course: main

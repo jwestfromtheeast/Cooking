@@ -1,7 +1,8 @@
 ---
 aliases:
   - Black Sesame Rice Krispie Treats
-source: NYT Cooking (Eric Kim)
+source: NYT Cooking
+author: Eric Kim
 url: https://cooking.nytimes.com/recipes/1024985-black-sesame-rice-krispies-treats
 cuisine: american
 course: dessert

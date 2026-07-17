@@ -1,7 +1,8 @@
 ---
 aliases:
   - Egg Bites
-source: NYT Cooking (Naz Deravian)
+source: NYT Cooking
+author: Naz Deravian
 url: https://cooking.nytimes.com/recipes/1026338-cottage-cheese-egg-bites
 cuisine: american
 course: breakfast

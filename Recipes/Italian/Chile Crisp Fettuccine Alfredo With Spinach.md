@@ -1,7 +1,8 @@
 ---
 aliases:
   - Chile Crisp Alfredo
-source: NYT Cooking (Genevieve Ko)
+source: NYT Cooking
+author: Genevieve Ko
 url: https://cooking.nytimes.com/recipes/1023609-chile-crisp-fettuccine-alfredo-with-spinach
 cuisine: italian
 course: main

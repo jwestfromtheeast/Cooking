@@ -1,7 +1,8 @@
 ---
 aliases:
   - Coconut Fish Bake
-source: NYT Cooking (Yewande Komolafe)
+source: NYT Cooking
+author: Yewande Komolafe
 url: https://cooking.nytimes.com/recipes/1022129-coconut-fish-and-tomato-bake
 cuisine: american
 course: main

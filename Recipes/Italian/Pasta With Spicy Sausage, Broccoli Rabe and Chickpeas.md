@@ -3,6 +3,7 @@ aliases:
   - Sausage and Broccoli Rabe Pasta
   - Pasta with Sausage and Broccoli Rabe
 source: NYT Cooking
+author: 
 url: https://cooking.nytimes.com/recipes/1020968-pasta-with-spicy-sausage-broccoli-rabe-and-chickpeas
 cuisine: italian
 course: main

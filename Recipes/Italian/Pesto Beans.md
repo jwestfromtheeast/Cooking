@@ -1,7 +1,8 @@
 ---
 aliases:
   - Deconstructed Pesto Beans
-source: NYT Cooking (Christian Reynoso)
+source: NYT Cooking
+author: Christian Reynoso
 url: https://cooking.nytimes.com/recipes/1025675-pesto-beans
 cuisine: italian
 course: main
